@@ -26,6 +26,7 @@
 	vertical-align: middle;
 }
 
+
 /* Responsive design: */
 
 @media screen and (max-width: 600px) {
@@ -34,4 +35,3 @@
 		margin-right: 0%;
 	}
 }
-
