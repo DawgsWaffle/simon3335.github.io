@@ -1,0 +1,36 @@
+/* Color: #dd4814 */
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+header {
+	background-color: #dd4814;
+	background-size: cover;
+	width: 100%;
+	min-height: 15%;
+	
+}
+
+h1 {
+	padding-top: 5px;
+	text-align: center;
+	color: white;
+}
+
+h1:hover {
+	text-align: center;
+	color: blue;
+}
+
+#title {
+	text-decoration: none;
+}
+
+h2 {
+	text-align: center;
+	color: #41a526;
+}
+
+ul { text-align:center;}
