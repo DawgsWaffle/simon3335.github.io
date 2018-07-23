@@ -37,6 +37,7 @@ ul {
 	text-align:center;
 }
 
-a {
-	text-decoration: none;
+a, a:visited, a:link { 
+	text-decoration:none;
+	color: #dd4814;
 }
