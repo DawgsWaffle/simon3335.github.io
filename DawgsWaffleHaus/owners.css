@@ -26,3 +26,11 @@
 	vertical-align: middle;
 }
 
+/* Responsive design: */
+
+@media screen and (max-width: 600px) {
+	.owners {
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+}
