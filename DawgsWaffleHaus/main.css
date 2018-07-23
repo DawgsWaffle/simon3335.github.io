@@ -33,4 +33,10 @@ h2 {
 	color: #41a526;
 }
 
-ul { text-align:center;}
+ul { 
+	text-align:center;
+}
+
+a {
+	text-decoration: none;
+}
